@@ -2,7 +2,7 @@
   "name": "react-native-actxa-sense2",
   "title": "React Native Actxa Sense2",
   "version": "1.0.0",
-  "description": "TODO",
+  "description": "This is RN Library for yolandaqingniu scales",
   "main": "index.js",
   "files": [
     "README.md",
@@ -16,15 +16,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/github_account/react-native-actxa-sense2.git",
-    "baseUrl": "https://github.com/github_account/react-native-actxa-sense2"
+    "url": "git+https://github.com/xnuxer88/react-native-actxa-sense2.git",
+    "baseUrl": "https://github.com/xnuxer88/react-native-actxa-sense2.git"
   },
   "keywords": [
     "react-native"
   ],
   "author": {
-    "name": "Your Name",
-    "email": "yourname@email.com"
+    "name": "Heru Wijaya",
+    "email": "xnuxer88@hotmail.com"
   },
   "license": "MIT",
   "licenseFilename": "LICENSE",
